@@ -21,4 +21,57 @@ I am a dedicated Computer Engineering student at Habiganj Polytechnic Instute, B
 </p>
 
 <br/>
+
 <!-- about-me section ends here  -->
+
+<h3 align="center">
+  <b>Languages:</b>
+  
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,c,python" />
+  </a>
+  </p>
+
+  <b>Web Dev:</b>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,javascript,react" />
+  </a>
+
+  <b>Database:</b>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  </a>
+
+  <b>Tools:</b>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,docker" />
+  </a>
+  
+
+
+  <b>Operating System:</b> 
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu" />
+  </a>
+</h3>
+
+<h2 align="center"><span style="color:#FF5733;">Connect with Me</span> </h2>
+
+<h3 align="center">
+  Let's connect and innovate together:
+  <br>
+  <a href="https://github.com/bakul3014">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40">
+  </a> |
+  <a href="https://linkedin.com/in/cyberbokul">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40">
+  </a> |
+  <a href="https://twitter.com/cyberbokul">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40">
+  </a>
+</h3>
