@@ -1,13 +1,12 @@
 <!-- banner image starts here  -->
-<img src="./image/bijit-deb.png" width="100%">
+<img src="./images/bijit-deb.png" width="100%">
 <!-- banner image ends here  -->
 
 <h1> 👋 Hello, I'm Bijit Deb </h1>
 
 <!-- Contact me section starts here  -->
 
-[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
-[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
+<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />
 <br />
 <br />
 
@@ -18,4 +17,8 @@
 ### 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
-I am a passionate computer science teacher. I have been teaching programming languages, web development, and computer science-related subjects to millions of 
+I am a dedicated Computer Engineering student at Habiganj Polytechnic Instute, Bangladesh.
+</p>
+
+<br/>
+<!-- about-me section ends here  -->
