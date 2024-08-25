@@ -6,7 +6,9 @@
 
 <!-- Contact me section starts here  -->
 
+<a href="www.linkedin.com/in/bijit-deb">
 <img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />
+</a>
 <br />
 <br />
 
@@ -65,7 +67,7 @@ I am a dedicated Computer Engineering student at Habiganj Polytechnic Institute,
 <h3 align="center">
   Let's connect and innovate together:
   <br>
-  <a href="https://github.com/bijitdeb2">
+  <a href="https://github.com/bijit-dev">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40">
   </a> |
   <a href="www.linkedin.com/in/bijit-deb">
