@@ -29,7 +29,7 @@ I am a dedicated Computer Engineering student at Habiganj Polytechnic Institute,
   
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,c,python" />
+    <img src="https://skillicons.dev/icons?i=java,c,python" />
   </a>
   </p>
 
@@ -42,13 +42,13 @@ I am a dedicated Computer Engineering student at Habiganj Polytechnic Institute,
   <b>Database:</b>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 
   <b>Tools:</b>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,docker" />
+    <img src="https://skillicons.dev/icons?i=git,vscode" />
   </a>
   
 
@@ -56,7 +56,7 @@ I am a dedicated Computer Engineering student at Habiganj Polytechnic Institute,
   <b>Operating System:</b> 
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=linux,windows" />
   </a>
 </h3>
 
