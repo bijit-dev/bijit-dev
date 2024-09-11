@@ -38,7 +38,7 @@ I am a dedicated Computer Engineering student at Habiganj Polytechnic Institute,
   <b>Web Dev:</b>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,javascript,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react" />
   </a>
 
   <b>Database:</b>
