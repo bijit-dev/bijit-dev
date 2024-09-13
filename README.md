@@ -39,7 +39,6 @@ I am a dedicated Computer Engineering student at Habiganj Polytechnic Institute,
   
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,javascript,react" />
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
 
   <b>Database:</b>
