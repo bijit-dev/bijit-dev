@@ -7,6 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bijit-dev&label=Profile%20views&color=0e75b6&style=flat" alt="bijitdeb" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bijit-dev" alt="bijtideb" /></a> </p>
+
+
 - 🔭 I’m currently working on [My Portfolio](https://bijitdeb.vercel.app/)
 
 - 🌱 I’m currently learning **React JS**
@@ -14,8 +17,6 @@
 - 👯 I’m looking to collaborate on [Orebi(eCommerce)](#)
 
 - 👨‍💻 All of my projects are available at [https://bijitdeb.vercel.app/](https://bijitdeb.vercel.app/)
-
-- 💬 Ask me about **react**
 
 - 📫 How to reach me **bijitdeb8@gmail.com**
 
