@@ -94,3 +94,9 @@ I am a dedicated Computer Engineering student at Habiganj Polytechnic Institute,
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40">
   </a>
 </h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijit-dev&show_icons=true&locale=en&layout=compact" alt="bijitdeb" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bijit-dev&show_icons=true&locale=en" alt="bijitdeb" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bijit-dev&" alt="bijitdeb" /></p>
