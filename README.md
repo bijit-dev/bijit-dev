@@ -3,6 +3,23 @@
 <!-- banner image ends here  -->
 
 <h1> 👋 Hello, I'm Bijit Deb </h1>
+<h3 align="center">I'm an enthusiastic developer focused on crafting web applications and software, with expertise in Full stack development.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bijit-dev&label=Profile%20views&color=0e75b6&style=flat" alt="bijitdeb" /> </p>
+
+- 🔭 I’m currently working on [My Portfolio](https://bijitdeb.vercel.app/)
+
+- 🌱 I’m currently learning **React JS**
+
+- 👯 I’m looking to collaborate on [Orebi(eCommerce)](#)
+
+- 👨‍💻 All of my projects are available at [https://bijitdeb.vercel.app/](https://bijitdeb.vercel.app/)
+
+- 💬 Ask me about **react**
+
+- 📫 How to reach me **bijitdeb8@gmail.com**
+
+- 📄 Know about my experiences [#](#)
 
 <!-- Contact me section starts here  -->
 
