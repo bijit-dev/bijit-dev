@@ -27,6 +27,9 @@
 <a href="https://www.linkedin.com/in/bijit-deb">
 <img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />
 </a>
+<a href="https://twitter.com/bijitdeb_1">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40">
+  </a>
 <br />
 <br />
 
@@ -100,4 +103,4 @@ I am a dedicated Computer Engineering student at Habiganj Polytechnic Institute,
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bijit-dev&show_icons=true&locale=en" alt="bijitdeb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bijit-dev&" alt="bijitdeb" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bijit-dev&" alt="bijitdeb" /></p>
