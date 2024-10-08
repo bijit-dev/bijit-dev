@@ -7,7 +7,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bijit-dev&label=Profile%20views&color=0e75b6&style=flat" alt="bijitdeb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bijit-dev" alt="bijtideb" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bijit-dev&theme=juicyfresh" alt="bijitdeb"/></a> </p>
+
+<!-- about-me section starts here  -->
+
+### 👨‍🏫 &nbsp; About Me
+
+<p align="justify">
+I am a dedicated Computer Engineering student at Habiganj Polytechnic Institute, Bangladesh.
+</p>
+
+<br/>
 
 
 - 🔭 I’m currently working on [My Portfolio](https://bijitdeb.vercel.app/)
@@ -22,6 +32,9 @@
 
 - 📄 Know about my experiences [#](#)
 
+
+<!-- about-me section ends here  -->
+
 <!-- Contact me section starts here  -->
 
 <a href="https://www.linkedin.com/in/bijit-deb">
@@ -35,17 +48,7 @@
 
 <!-- Contact me section ends here  -->
 
-<!-- about-me section starts here  -->
 
-### 👨‍🏫 &nbsp; About Me
-
-<p align="justify">
-I am a dedicated Computer Engineering student at Habiganj Polytechnic Institute, Bangladesh.
-</p>
-
-<br/>
-
-<!-- about-me section ends here  -->
 
 <h3 align="center">
   <b>Languages:</b>
@@ -86,8 +89,6 @@ I am a dedicated Computer Engineering student at Habiganj Polytechnic Institute,
 <h2 align="center"><span style="color:#FF5733;">Connect with Me</span> </h2>
 
 <h3 align="center">
-  Let's connect and innovate together:
-  <br>
   <a href="https://github.com/bijit-dev">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40">
   </a> |
