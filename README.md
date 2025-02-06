@@ -40,7 +40,7 @@ I am a dedicated Computer Engineering student at Habiganj Polytechnic Institute,
 <a href="https://www.linkedin.com/in/bijit-deb">
 <img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />
 </a>
-<a href="https://twitter.com/bijitdeb_1">
+<a href="https://twitter.com/bijitdeb01">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40">
   </a>
 <br />
@@ -95,7 +95,7 @@ I am a dedicated Computer Engineering student at Habiganj Polytechnic Institute,
   <a href="https://www.linkedin.com/in/bijit-deb">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40">
   </a> |
-  <a href="https://twitter.com/bijitdeb_1">
+  <a href="https://twitter.com/bijitdeb01">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40">
   </a>
 </h3>
