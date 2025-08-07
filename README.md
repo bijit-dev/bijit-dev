@@ -103,5 +103,9 @@ I am a dedicated Computer Engineering student at Habiganj Polytechnic Institute,
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijit-dev&show_icons=true&locale=en&layout=compact" alt="bijitdeb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bijit-dev&show_icons=true&locale=en" alt="bijitdeb" /></p>
+![](https://github-readme-stats.vercel.app/api?username=bijit-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=bijit-dev&theme=dark)](https://git.io/streak-stats) <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bijit-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bijit-dev&" alt="bijitdeb" /></p>
