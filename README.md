@@ -1,7 +1,7 @@
 <!-- banner image starts here  -->
 <img src="./images/bijit-deb.png" width="100%">
 <!-- banner image ends here  -->
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=bijit-dev&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <h1> 👋 Hello, I'm Bijit Deb </h1>
 <h3 align="center">I'm an enthusiastic developer focused on crafting web applications and software, with expertise in Full stack development.</h3>
 
