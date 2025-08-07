@@ -22,7 +22,7 @@ I am a dedicated Computer Engineering student at Habiganj Polytechnic Institute,
 
 - 🔭 I’m currently working on [My Portfolio](https://bijitdeb.vercel.app/)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next.JS**
 
 - 👯 I’m looking to collaborate on [Orebi(eCommerce)](#)
 
